@@ -30,6 +30,7 @@
     "cancel": "取消",
     "completed": "已完成",
     "pending": "待定",
+    "fileSizeTypes": ["B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB"],
     "dayNames": [
       "星期日", 
       "星期一", 
@@ -103,6 +104,7 @@
     "am": "上午",
     "pm": "下午",
     "today": "今日",
+    "now": "現在",
     "weekHeader": "周",
     "firstDayOfWeek": 0,
     "showMonthAfterYear": true,
